@@ -16,3 +16,5 @@ node_modules/
 # Mini Program
 project.private.config.json
 
+# Egret
+.wing
