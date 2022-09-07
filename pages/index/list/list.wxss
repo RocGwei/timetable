@@ -1,0 +1,24 @@
+.first_tab{
+ 
+}
+.list{
+    width: 80%;
+    flex-direction:column;
+    margin-top: 20px;
+    margin-left: 10%;
+    border:  2rpx solid green;
+}
+.list_1{
+    
+}
+.list_2{
+   display: flex;
+}
+.list_2_1{
+  flex: 1;
+}
+.list_2_2{
+  flex: 4;
+  font-family: 'Courier New', Courier, monospace;
+  color:rgb(0, 204, 255);
+}

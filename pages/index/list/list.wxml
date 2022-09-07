@@ -1,0 +1,28 @@
+<view class="first_tab">
+ <navigator class="list">
+ <view class="list_1">xx同学，你今天又X节课</view>
+ <view class="list_2">
+    <view class="list_2_1">课表信息</view>
+    <view class="list_2_2">
+        1-2节 第五教学楼 大数据与应用技术
+        1-2节 第五教学楼 大数据与应用技术
+        1-2节 第五教学楼 大数据与应用技术
+    </view>
+ </view>
+ <view class="list_3">上课日期</view>
+ <view class="list_4">备注</view>
+ </navigator>
+ <navigator class="list">
+ <view class="list_1">xx同学，你今天又X节课</view>
+ <view class="list_2">
+    <view class="list_2_1">课表信息</view>
+    <view class="list_2_2">
+        1-2节 第五教学楼 大数据与应用技术
+        1-2节 第五教学楼 大数据与应用技术
+        1-2节 第五教学楼 大数据与应用技术
+    </view>
+ </view>
+ <view class="list_3">上课日期</view>
+ <view class="list_4">备注</view>
+ </navigator>
+ </view>

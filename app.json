@@ -1,7 +1,9 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/schedule/schedule"
+    "pages/schedule/schedule",
+    "pages/student/student",
+    "pages/user/user"
   ],
   "window":{
     "backgroundTextStyle":"light",
@@ -14,18 +16,35 @@
      {
         "pagePath":"pages/index/index",
         "text": "首页",
-        "iconPath": "pages/icon/icon1.jpg",
-        "selectedIconPath": "pages/icon/测试图片1.jpg"
+        "iconPath": "pages/icon/index1.png",
+        "selectedIconPath": "pages/icon/index2.png"
      },
     
         {
            "pagePath":"pages/schedule/schedule",
            "text": "课程表",
+           "iconPath": "pages/icon/schedule1.png",
+           "selectedIconPath": "pages/icon/schedule2.png"
+           
+        },
+        {
+           "pagePath":"pages/student/student",
+           "text": "我的",
            "iconPath": "pages/icon/icon1.jpg",
            "selectedIconPath": "pages/icon/测试图片1.jpg"
            
+        },
+        {
+           "pagePath":"pages/user/user",
+           "text": "我的",
+           "iconPath": "pages/icon/user1.png",
+           "selectedIconPath": "pages/icon/user2.png"
+           
         }
-    ]
+
+    ],
+    "color": "#000000",
+    "selectedColor": "#00FF00"
 },
   "style": "v2",
   "sitemapLocation": "sitemap.json"

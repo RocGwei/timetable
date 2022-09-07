@@ -1,2 +1,22 @@
-<!--pages/schedule.wxml-->
-<text>pages/schedule.wxml</text>
+<view class="top">
+<view class="top_1"><text class="font_test">第X周</text></view>
+<view class="top_2"><text class="font_test">星期一8.1</text></view>
+<view class="top_2"><text class="font_test">星期一8.1</text></view>
+<view class="top_2"><text class="font_test">星期一8.1</text></view>
+<view class="top_2"><text class="font_test">星期一8.1</text></view>
+<view class="top_2"><text class="font_test">星期一8.1</text></view>
+<view class="top_2"><text class="font_test">星期一8.1</text></view>
+<view class="top_2"><text class="font_test">星期一8.1</text></view>
+</view>
+<view class="down">
+<view class="down_left">
+<view class="down_left1"><text class="font_test2">1 08:00-09.40</text></view>
+<view class="down_left1"><text class="font_test2">2 10:00-10.45</text></view>
+<view class="down_left1"><text class="font_test2">3 14:00-15:40</text></view>
+<view class="down_left1"><text class="font_test2">4 16:00-17:40</text></view>
+<view class="down_left1"><text class="font_test2">5 19:00-20:40</text></view>
+</view>
+<view class="down_right">
+
+</view>
+</view>
